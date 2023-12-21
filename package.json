@@ -1,0 +1,25 @@
+{
+  "name": "api-fauzidev",
+  "version": "1.0.3",
+  "description": "Free Rest Api For Everyone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fauzidev",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oziispedzz/fauzidev-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oziispedzz/fauzidev-api/issues"
+  },
+  "homepage": "https://github.com/oziispedzz/fauzidev-api#readme",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.0.0"
+  }
+}
